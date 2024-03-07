@@ -1,0 +1,18 @@
+
+.caja{
+    background-color: rgb(241, 164, 144);
+}
+.name{
+    color: rgb(236, 8, 8);
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.poderes{
+    font-weight: bold;
+    padding: 10px;
+}
+.poderes1{
+    padding: 5px;
+    font-weight: bold;
+}

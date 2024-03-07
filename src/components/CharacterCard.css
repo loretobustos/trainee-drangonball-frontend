@@ -1,0 +1,46 @@
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(82, 14, 14, 0.1); /* Cambiado el color de la sombra */
+  }
+  
+  .card-img-top {
+    max-width: 100%;
+    height: auto;
+  }
+  .boton{
+    background-color: brown;
+    width: auto;
+  }
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+  }
+  .ver-mas{
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(112, 6, 6);
+  }
+  .card-text {
+    margin-bottom: 10px;
+  }
+  
+  .card-subtitle {
+    font-size: 1rem;
+    margin-top: 20px;
+  }
+  
+  .list-group-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .list-group-item img {
+    margin-right: 10px;
+  }
+  
